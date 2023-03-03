@@ -1,11 +1,11 @@
-# Linkedin-Connector
+## Linkedin-Connector
 This module facilitates the implementation of Single Sign-On (SSO) using LinkedIn as the Identity Provider (IDP). Along with LinkedIn SSO, this module offers functionalities that can be utilized to perform operations related to LinkedIn posts and sharing.
-# Dependency
+## Dependency
    •	Encryption
    •	OIDC Module
    •	Community Commons
    •	Nanoflow Commons
-# Configuration
+## Configuration
   ### a.LinkedIn Developer portal 
         •	Log in to the LinkedIn developers’ site at https://www.linkedin.com/developer/apps.
         •	Click Create App and complete the entire information.
