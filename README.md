@@ -16,7 +16,8 @@ This module facilitates the implementation of Single Sign-On (SSO) using LinkedI
                 •	Sign in with LinkedIn.
                 •	Sign in with LinkedIn v2.
         •	Select the Auth tab. In Oauth 2.0 settings add Mendix application Redirect URL.
-        •	Generate access token with(email, openid, profile, r_emailaddress, r_liteprofile, w_member_social)all permissions. And store that token in Mendix as  Constant.To create a token manually, you can visit the following URL: https://www.linkedin.com/developers/tools/oauth
+        •	Generate access token with(email, openid, profile, r_emailaddress, r_liteprofile, w_member_social)all permissions. And store that token in Mendix as  Constant.
+        •   To create a token manually, you can visit the following URL: https://www.linkedin.com/developers/tools/oauth
         •	Check auth tab, the OAuth 2.0 scopes all are added.
   ### b.	OIDC 
 
