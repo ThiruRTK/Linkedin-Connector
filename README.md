@@ -1,7 +1,7 @@
 ## Linkedin-Connector
 This module facilitates the implementation of Single Sign-On (SSO) using LinkedIn as the Identity Provider (IDP). Along with LinkedIn SSO, this module offers functionalities that can be utilized to perform operations related to LinkedIn posts and sharing.
 ## Dependencies
-   •	Studio pro version 9.18.2 or higher versions
+   •	Studio pro version 9.12.8 or higher versions
    •	Encryption
    •	OIDC Module
    •	Community Commons
